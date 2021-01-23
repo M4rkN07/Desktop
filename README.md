@@ -11,9 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games on XBox
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="M4rkN07 Spotify Playing" width="350" />](https://open.spotify.com/playlist/63iCuuG2UpDLSgYCposyob)
 
 ### Connect with me:
 
