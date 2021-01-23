@@ -77,7 +77,7 @@ Blog Posts are under Construction ;-)
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Open PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
+1. ❌ Open PR [#1](https://github.com/fh-erfurt/Project-Playground) in [Project-Playground](https://github.com/fh-erfurt/Project-Playground)
 
 <!--END_SECTION:activity-->
 
