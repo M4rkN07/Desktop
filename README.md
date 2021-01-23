@@ -86,7 +86,7 @@ Blog Posts are under Construction ;-)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="M4rkN07's GitHub Stats" src="https://github-readme-stats.M4rkN07.vercel.app/api?username=M4rkN07&show_icons=true&hide_border=true" />
+  <img align="left" alt="M4rkN07's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M4rkN07&show_icons=true&hide_border=true" />
 
 </details>
 
