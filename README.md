@@ -77,7 +77,7 @@ Blog Posts are under Construction ;-)
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
+1. ❌ Open PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 
 <!--END_SECTION:activity-->
 
@@ -86,7 +86,7 @@ Blog Posts are under Construction ;-)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="M4rkN07's GitHub Stats" src="https://github-readme-stats.M4rkN07.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="M4rkN07's GitHub Stats" src="https://github-readme-stats.M4rkN07.vercel.app/api?username=M4rkN07&show_icons=true&hide_border=true" />
 
 </details>
 
