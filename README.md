@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="M4rkN07 Spotify Playing" width="350" />](https://open.spotify.com/playlist/63iCuuG2UpDLSgYCposyob)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="M4rkN07 Spotify Playing" width="350" />](https://open.spotify.com/playlist/63iCuuG2UpDLSgYCposyob)
 
 ### Connect with me:
 
@@ -77,7 +77,7 @@ Blog Posts are under Construction ;-)
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Open PR [#1](https://github.com/fh-erfurt/Project-Playground) in [Project-Playground](https://github.com/fh-erfurt/Project-Playground)
+1. 🎉 Open PR [#1](https://github.com/fh-erfurt/Project-Playground) in [Project-Playground](https://github.com/fh-erfurt/Project-Playground)
 
 <!--END_SECTION:activity-->
 
